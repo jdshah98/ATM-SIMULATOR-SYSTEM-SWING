@@ -1,0 +1,11 @@
+Cardno	RCardno	Change	Balance	Type
+1	5000	16000	Transfer	2
+1	10000	21000	Withdraw
+1	12000	31000	Deposit
+1	10000	19000	Withdraw
+1	10000	29000	Deposit
+1	10000	19000	Transfer	2
+1	5000	29000	Deposit
+1	5000	24000	Deposit
+1	5000	19000	Deposit
+1	1000	14000	Transfer	2
